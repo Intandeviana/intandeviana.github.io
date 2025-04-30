@@ -1,0 +1,64 @@
+.satu {
+    background-color: aliceblue;
+}
+.dua {
+    overflow: hidden;
+    background-color: #d6e7f8;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+.tiga {
+    text-align: center;
+    margin: 40px 40px;
+    justify-content: center;
+    align-items: center;
+    
+}
+nav {
+    background-color: #003366;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 14px;
+}
+nav a:hover {
+    background-color: #d6e7f8;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 40px 20px;
+}
+.box {
+    background-color: white;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 100px;
+}  
+.box h3 {
+    margin-top: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+    margin-top: 130px;
+}
+h2 {
+    background-color: #88afdb;
+    color: white;
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
